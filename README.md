@@ -27,5 +27,29 @@ Your submission will be evaluated based on the following criteria:
 - Code Quality: The code is clean, well-organized, and follows best practices.
 - Understanding of React Concepts: Proper usage of state, effects, context API, and custom hooks.
 
+## Wireframe
+```
++----------------------------------------+
+|                Search Bar              |
+|----------------------------------------|
+| [Category 1] [Category 2] [Category 3] |
+|----------------------------------------|
+| +------+  +------+  +------+  +------+ |
+| | Img  |  | Img  |  | Img  |  | Img  | |
+| |------|  |------|  |------|  |------| |
+| |Title |  |Title |  |Title |  |Title | |
+| |Price |  |Price |  |Price |  |Price | |
+| +------+  +------+  +------+  +------+ |
+| +------+  +------+  +------+  +------+ |
+| | Img  |  | Img  |  | Img  |  | Img  | |
+| |------|  |------|  |------|  |------| |
+| |Title |  |Title |  |Title |  |Title | |
+| |Price |  |Price |  |Price |  |Price | |
+| +------+  +------+  +------+  +------+ |
+|              ............              |
++----------------------------------------+
+```
+
 ## How to submit ?
 Simply clone this repository and send us a link to your implementation.
+
