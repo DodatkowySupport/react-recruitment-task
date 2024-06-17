@@ -26,3 +26,6 @@ Your submission will be evaluated based on the following criteria:
 - Correctness: The app functions as described and meets all requirements.
 - Code Quality: The code is clean, well-organized, and follows best practices.
 - Understanding of React Concepts: Proper usage of state, effects, context API, and custom hooks.
+
+## How to submit ?
+Simply clone this repository and send us a link to your implementation.
